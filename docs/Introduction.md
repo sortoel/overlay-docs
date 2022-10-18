@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# **Introduction to Overlay**
+# Introduction to Overlay
 
 
 ## What is Overlay?
