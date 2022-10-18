@@ -60,5 +60,5 @@ Building positions can result in financial loss, especially with the use of leve
 ```
 
 
-<p style="text-align: right">
+<p style={{text-align: 'right'}}>
 <em>Last updated on <strong>Oct 18, 2022</strong></em></p>
