@@ -1,6 +1,4 @@
----
-sidebar_position: 3
----
+
 # Governance
 
 As of today, Overlay Protocol is governed by Planck Cat DAO, a DAO for Overlay contributors to participate in the protocol governance via PlanckCat (PCD) NFT’s.
@@ -13,4 +11,4 @@ PlanckCat DAO can and will decide on what markets will be listed or delisted on 
 Non-PCD NFT holders can  still get involved with discussions on Discord and the Governance Forum.
 
 
-If community members want to actively participate in governance,they must earn an NFT by contributing to Overlay Protocol. Participation is judged by community members, and contributors are rewarded with Cred. As of today, community members  must collect 1000 Cred to claim one PCD NFT.he soft cap supply of the PCD NFT is currently set to 500. More NFT’s can be minted on a one off basis once the 500 limit has been set. 
+If community members want to actively participate in governance,they must earn an NFT by contributing to Overlay Protocol. Participation is judged by community members, and contributors are rewarded with Cred. As of today, community members  must collect 1000 Cred to claim one PCD NFT. The soft cap supply of the PCD NFT is currently set to 500. More NFT’s can be minted on a one off basis once the 500 limit has been set. 
