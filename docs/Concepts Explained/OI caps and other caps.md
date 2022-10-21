@@ -34,6 +34,6 @@ Using C<sub>Q</sub>, the protocol calculates an expected inflation rate over a r
 
 The circuit breaker works by adjusting the per-market notional OI cap (C<sub>Q</sub>) for a particular period of time so as to limit the possible notional size of new positions offered by the market till the market cools down. 
 
-<p style="text-align: right">
-<em>Last updated on <strong>[insert date of publication/edit]</strong></em></p>
+<p style={{textAlign: 'right'}}>
+<em>Last updated on <strong>Oct 18, 2022</strong></em></p>
 
