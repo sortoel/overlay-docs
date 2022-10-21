@@ -12,7 +12,8 @@ Overlay Protocol is a decentralized platform built on Ethereum, and offers users
 
 
 
-> INFO\
+> INFO
+>
 > For a deep dive into Overlay Protocol, please refer to our white paper [here](https://planckcat.mypinata.cloud/ipfs/QmVMX7DH8Kh22kxMyDFGUJcw1a3irNPvyZBtAogkyJYJEv).
 
 
@@ -54,7 +55,8 @@ OVL is the proposed native token of Overlay Protocol. It is an ERC-20 token on t
 Positions on Overlay Protocol resemble perpetual futures contracts (perps) - similar to perps, the contracts keep rolling over, with no expiration date or actual settlement. However, contracts offered on Overlay markets have several key features differing from conventional perps. For more on this, please refer to our section on this.
 
 
-> DISCLAIMER\
+> DISCLAIMER
+>
 > Building positions can result in financial loss, especially with the use of leverage. Do your research about Overlay Protocol and the markets it offers before deploying your resources. A good rule of thumb is to not build positions with more than you can afford to lose. Overlay Protocol is a nascent and untested technology. While measures have been taken to secure the code/network/protocol, that does not ensure real funds cannot be lost.
 
 
