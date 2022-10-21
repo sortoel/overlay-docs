@@ -66,14 +66,14 @@ PlanckCat DAO (PCD) is a DAO that enables Overlay contributors to be involved in
 
 
 > TIP     
-> PCD NFT minting is live with a soft cap of 500 PCD NFTs. Contribute to Overlay and earn CRED in order to mint a PCD! For more details, go here. Hop into our discord here to start contributing.
+> PCD NFT minting is live with a soft cap of 500 PCD NFTs. Contribute to Overlay and earn CRED in order to mint a PCD! For more details, go [here](https://www.notion.so/PlanckCat-DAO-7a3fe097aa5c4acaac2d89e142467e53). Hop into our [discord](https://discord.com/invite/m2U5vSr4gD) here to start contributing.
 
 
 
 > DISCLAIMER    
 > Please note that Overlay Protocol's OVL token has been deployed in a limited capacity (only for participants of the Litter Box 1 program) on Ethereum mainnet. The official Overlay token OVL is not available on any exchange currently. The official token address of the OVL token is the one provided on this page. Any other ERC-20 tokens currently deployed on Ethereum (or any other chain) are not associated with Overlay Protocol.       
 > 
-> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OVL" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed here.
+> Do not interact with any token /smart contract addresses that are not listed on this webpage. Any "OVL" token not listed on this page that exists on any chain is not associated with Overlay Protocol. Please be careful and get information about Overlay only from the official channels listed [here](https://overlay-docs.vercel.app/Getting%20Started/Communication%20channels).
 
 
 <p style={{textAlign: 'right'}}>
