@@ -4,7 +4,7 @@
 As of today, Overlay Protocol is governed by Planck Cat DAO, a DAO for Overlay contributors to participate in the protocol governance via PlanckCat (PCD) NFT’s.
 Discussions are currently being had about OVL taking the place of governance. These discussions will be had in the appropriate channels on Discord and Forum.
 
-1 PCD NFT equals one vote and PCD NFT holders can vote for governance proposals on [Snapshot](https://snapshot.org/#/planckcatdao.eth). Moreover, any PCD NFT holder can start a discussion on both [Overlay Discord](discord.gg/m2U5vSr4gD) and/or the [Forum](https://gov.overlay.market/), and then after a temperature check, can open a governance proposal on Snapshot.
+1 PCD NFT equals one vote and PCD NFT holders can vote for governance proposals on [Snapshot](https://snapshot.org/#/planckcatdao.eth). Moreover, any PCD NFT holder can start a discussion on both [Overlay Discord](http://discord.gg/m2U5vSr4gD) and/or the [Forum](https://gov.overlay.market/), and then after a temperature check, can open a governance proposal on Snapshot.
 
 PlanckCat DAO can and will decide on what markets will be listed or delisted on the protocol, as well as set protocol risk parameters which will dictate the experience for all users.
 
