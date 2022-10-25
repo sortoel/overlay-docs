@@ -2,18 +2,17 @@
 
 ## 1. Inflation risk
 
-    Overlay settles all PnL in its native token OVL - OVL is used as collateral to open a position, it’s minted to pay out profits, and is burned in case of a loss. Thus, the primary risk the protocol faces is risk of excessive inflation of OVL. This risk is managed through a range of mechanisms, detailed below.
+Overlay settles all PnL in its native token OVL - OVL is used as collateral to open a position, it’s minted to pay out profits, and is burned in case of a loss. Thus, the primary risk the protocol faces is risk of excessive inflation of OVL. This risk is managed through a range of mechanisms, detailed below.
 
 ### A. Funding payments
 
-    While other perpetual futures platforms charge funding to bring the contract price and spot price closer in case of a deviation, Overlay charges funding based on the imbalance of open interest between longs and shorts. Overlay does not require funding to reduce the basis (deviation between contract and spot price) as price is intermittently fetched from oracles.
+While other perpetual futures platforms charge funding to bring the contract price and spot price closer in case of a deviation, Overlay charges funding based on the imbalance of open interest between longs and shorts. Overlay does not require funding to reduce the basis (deviation between contract and spot price) as price is intermittently fetched from oracles.
 
-
-    For example, if there are more longs than shorts, then longs pay funding to shorts. Since the size of the open interest imbalance is potential inflation risk for the protocol, funding payments are used to incentivize users to reduce this imbalance
+For example, if there are more longs than shorts, then longs pay funding to shorts. Since the size of the open interest imbalance is potential inflation risk for the protocol, funding payments are used to incentivize users to reduce this imbalance
 
 ### B. Caps
 
-    The protocol limits PnL or addition of new positions to mitigate inflation risk when and where necessary, based on risk parameters set  by governance. The risk parameters through which this is achieved are detailed below:
+The protocol limits PnL or addition of new positions to mitigate inflation risk when and where necessary, based on risk parameters set by governance. The risk parameters through which this is achieved are detailed below:
 
 - Payoff caps: Overlay will have a per-position payoff cap that will limit the PnL of each position on the protocol; this cap will be determined by the community/DAO through a formal governance process for each market. This will help the protocol limit inflation risk from the trading of heavy tail assets.
 - Open interest caps: OI caps will be imposed on the aggregate open interest for the long and short sides to limit the amount of position contracts an Overlay market is willing to take on at any point in time. The payoff cap does not work without an OI cap as it is trivial for a user to open several small positions to undermine the payoff cap.
@@ -21,10 +20,9 @@
 
 ### C. Liquidations
 
-    Loss making positions that have reached the liquidation threshold are liquidatable by anyone who calls the liquidate function on the market contract. The liquidator earns a reward for doing this. Some of the OVL loss incurred by the user is burnt, and some is sent to the fee repo.
+Loss making positions that have reached the liquidation threshold are liquidatable by anyone who calls the liquidate function on the market contract. The liquidator earns a reward for doing this. Some of the OVL loss incurred by the user is burnt, and some is sent to the fee repo.
 
-
-    A key point to note is that risk parameters associated with the above features are set by Overlay governance. So, it is up to token holders to decide the balance between inflation risk vs increased potential volumes and platform usage. On one end of the spectrum, the risk parameters can be tuned so strictly as to inhibit all trading volume for zero inflation risk. On the other end of the spectrum, they can be tuned so loose as to enable large trading volumes but with significant risk of inflation.
+A key point to note is that risk parameters associated with the above features are set by Overlay governance. So, it is up to token holders to decide the balance between inflation risk vs increased potential volumes and platform usage. On one end of the spectrum, the risk parameters can be tuned so strictly as to inhibit all trading volume for zero inflation risk. On the other end of the spectrum, they can be tuned so loose as to enable large trading volumes but with significant risk of inflation.
 
 ## II. Smart Contract Risk
 
