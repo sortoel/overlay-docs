@@ -48,25 +48,22 @@ Overlay attempts to mitigate oracle risks by implementing the following features
 
 ### A. Time Weighted Average Price (TWAP)
 
-    TWAP or “Time-Weighted Average Price” is the average price of an asset over a certain time period. TWAP price is often used by market participants in traditional markets and crypto to execute large orders (in chunks) while minimizing market impact.
+TWAP or “Time-Weighted Average Price” is the average price of an asset over a certain time period. TWAP price is often used by market participants in traditional markets and crypto to execute large orders (in chunks) while minimizing market impact.
 
-
-    Using TWAPs instead of spot prices as a price oracle is common practice in DeFi. TWAPs make oracle manipulation attacks significantly more expensive and cumbersome. This is because TWAP feeds require that attacks be sustained across multiple blocks, which is extremely expensive to do and can generally not be executed through flash loans - such an attack would require an attacker to put up real liquidity.
+Using TWAPs instead of spot prices as a price oracle is common practice in DeFi. TWAPs make oracle manipulation attacks significantly more expensive and cumbersome. This is because TWAP feeds require that attacks be sustained across multiple blocks, which is extremely expensive to do and can generally not be executed through flash loans - such an attack would require an attacker to put up real liquidity.
 
 ### B. Bid-ask spread
 
-    A bid-ask spread refers to the difference or “spread” in the price between which an asset can be bought or sold at any given particular point of time. In traditional exchanges (based on the CLOB model), this can be thought of as the difference between the highest price a buyer is willing to pay and the lowest price a seller is offering.
+A bid-ask spread refers to the difference or “spread” in the price between which an asset can be bought or sold at any given particular point of time. In traditional exchanges (based on the CLOB model), this can be thought of as the difference between the highest price a buyer is willing to pay and the lowest price a seller is offering.
 
-
-    Overlay introduces a static spread between bid and ask prices in order for users to not profit from the latency inherent in a TWAP price feed (since it is the average of the price over a certain period of time).
+Overlay introduces a static spread between bid and ask prices in order for users to not profit from the latency inherent in a TWAP price feed (since it is the average of the price over a certain period of time).
 
 ### C. Market impact
 
-    Market impact is the change in price of an asset due to the execution of a particular position. Price Impact is generally a function of liquidity in a market - the more liquid a market, the less the price impact would be for the same size of position.
+Market impact is the change in price of an asset due to the execution of a particular position. Price Impact is generally a function of liquidity in a market - the more liquid a market, the less the price impact would be for the same size of position.
 
-
-    Large positions on Overlay markets suffer slippage, emulating a real market and severely limiting the potential profit of attackers (as compared to Overlay markets where market impact was not emulated). This market impact is determined by a combination of a per-market price impact constant (which could be changed for any market in governance) and the cumulative open interest on the ask/bid side in a rolling time window. Thus, price impact on Overlay is added to bid and ask prices based on the size of the order and a per-market impact constant.
+Large positions on Overlay markets suffer slippage, emulating a real market and severely limiting the potential profit of attackers (as compared to Overlay markets where market impact was not emulated). This market impact is determined by a combination of a per-market price impact constant (which could be changed for any market in governance) and the cumulative open interest on the ask/bid side in a rolling time window. Thus, price impact on Overlay is added to bid and ask prices based on the size of the order and a per-market impact constant.
 
 ### D. Spot price manipulation
 
-    Wherever applicable, such as when the price oracle is a Uniswap v3 oracle, the protocol keeps track of liquidity and price movements in the pool and adjusts its risk parameters accordingly.
+Wherever applicable, such as when the price oracle is a Uniswap v3 oracle, the protocol keeps track of liquidity and price movements in the pool and adjusts its risk parameters accordingly.
