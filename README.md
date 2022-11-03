@@ -16,6 +16,15 @@ $ yarn start
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### Test multilanguage Development(i18n)
+
+```
+$ yarn build
+$ yarn serve
+```
+
+This command generates static content includes multilanguage feature(i18n).And it starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
 ### Build
 
 ```

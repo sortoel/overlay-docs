@@ -1,0 +1,22 @@
+{
+	"version.label": {
+		"message": "Next",
+		"description": "The label for version current"
+	},
+	"sidebar.defaultSidebar.category.Getting Started": {
+		"message": "Getting Started",
+		"description": "The label for category Getting Started in sidebar defaultSidebar"
+	},
+	"sidebar.defaultSidebar.category.Concepts Explained": {
+		"message": "Concepts Explained",
+		"description": "The label for category Concepts Explained in sidebar defaultSidebar"
+	},
+	"sidebar.defaultSidebar.category.Contracts": {
+		"message": "Contracts",
+		"description": "The label for category Contracts in sidebar defaultSidebar"
+	},
+	"sidebar.defaultSidebar.category.Security": {
+		"message": "Security",
+		"description": "The label for category Security in sidebar defaultSidebar"
+	}
+}
