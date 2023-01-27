@@ -3,7 +3,7 @@ module.exports = {
   tagline: "Trade data streams",
   url: "https://overlay-docs.com",
   baseUrl: "/",
-  favicon: "img/OVL-favicon.jpg",
+  favicon: "img/OVL-favicon.ico",
   organizationName: "overlay", // Usually your GitHub org/user name.
   projectName: "overlay-docs", // Usually your repo name.
   themeConfig: {
