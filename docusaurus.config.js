@@ -3,7 +3,7 @@ module.exports = {
   tagline: "Trade data streams",
   url: "https://overlay-docs.com",
   baseUrl: "/",
-  favicon: "img/favicon.ico",
+  favicon: "img/OVL-favicon.ico",
   organizationName: "overlay", // Usually your GitHub org/user name.
   projectName: "overlay-docs", // Usually your repo name.
   themeConfig: {
@@ -15,8 +15,8 @@ module.exports = {
       title: "Overlay",
       logo: {
         alt: 'Overlay logo',
-        src: 'img/logo.svg',
-        srcDark: 'img/logo-white.svg'
+        src: 'img/logo.png',
+        srcDark: 'img/logo-white.png'
       },
       items: [
         {
