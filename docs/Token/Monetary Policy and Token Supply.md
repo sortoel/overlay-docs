@@ -11,4 +11,4 @@ Of the 58.80% in the DAO Treasury, 7% should be allocated to Dev Fund and Commun
  
 The initial developers' tokens are subject to a vesting schedule (1 year cliff for 25%, 75% linear after that) starting from TGE, while stakeholder tokens have a 2-year linear vesting schedule starting from January 2023.
 
-Upcoming: Mirror article for a further detailed read about Tokenomics and incentive alignment for the sustainability of Overlay Protocol.
+Read [this mirror article](https://mirror.xyz/0x7999C7f0b9f2259434b7aD130bBe36723a49E14e/e1oJnBNi1Fb8IXrP-RzSWQFsmhljh9pPhqkuVOR6P2M) for a further detailed read about Tokenomics and incentive alignment for the sustainability of Overlay Protocol.
