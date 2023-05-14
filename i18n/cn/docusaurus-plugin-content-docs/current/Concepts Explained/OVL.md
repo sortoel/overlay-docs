@@ -37,9 +37,9 @@ OVL是Overlay Protocol提出的原生代币。它是以太坊主网上的ERC-20�
 这与其他现有的DAO（如Maker DAO，Yearn Finance等）类似，它们也使用各自的原生代币投票决定治理提案以实现Overlay运作和决策。
 
 
-## Supply
+## 供给
 
-代币首次部署时，OVL代币有800万枚。 OVL供应是动态的。当用户解除头寸时，智能合约将动态铸造和销毁OVL。
+代币首次部署时，OVL代币有800万枚。 OVL供给是动态的。当用户解除头寸时，智能合约将动态铸造和销毁OVL。
 
 <p style={{textAlign: 'right'}}>
 <em>Last updated on <strong>Oct 18, 2022</strong></em></p>
