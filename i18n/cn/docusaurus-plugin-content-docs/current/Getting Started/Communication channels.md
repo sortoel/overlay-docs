@@ -7,6 +7,6 @@ sidebar_position: 4
 
 **Twitter: _[https://twitter.com/OverlayProtocol](https://twitter.com/OverlayProtocol)_**  
 
-**治理论坛:_ https://commonwealth.im/overlay/_**    
+**治理论坛: _https://commonwealth.im/overlay/_**    
 
 **停用:** Telegram channel
