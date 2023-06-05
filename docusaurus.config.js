@@ -43,14 +43,11 @@ module.exports = {
 	},
 	i18n: {
 		defaultLocale: "en",
-		locales: ["en", "ja"],
+		locales: ["en"],
 		localeConfigs: {
 			en: {
 				htmlLang: "en-GB",
-			},
-			ja: {
-				htmlLang: "ja-JP",
-			},
+			}
 		},
 	},
 	presets: [
