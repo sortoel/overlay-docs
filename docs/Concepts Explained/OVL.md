@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # OVL
 
-OVL is the proposed native token of Overlay Protocol. It isan ERC-20 token on the Ethereum Mainnet. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch. 
+OVL is the proposed native token of Overlay Protocol. It is an ERC-20 token on the Ethereum Mainnet. OVL serves a dual purpose and will be used to participate in trading and DAO governance after launch. 
 
 OVL may be used by holders to:
 

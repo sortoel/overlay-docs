@@ -3,21 +3,21 @@ module.exports = {
 	tagline: "Trade data streams",
 	url: "https://overlay-docs.com",
 	baseUrl: "/",
-	favicon: "img/favicon.ico",
+	favicon: "img/OVL-favicon.ico",
 	organizationName: "overlay", // Usually your GitHub org/user name.
 	projectName: "overlay-docs", // Usually your repo name.
 	themeConfig: {
-		prism: {
-			additionalLanguages: ["ejs"],
-			theme: require("prism-react-renderer/themes/vsDark"),
+	  prism: {
+		additionalLanguages: ["ejs"],
+		theme: require("prism-react-renderer/themes/vsDark")
+	  },
+	  navbar: {
+		title: "Overlay",
+		logo: {
+		  alt: 'Overlay logo',
+		  src: 'img/logo.png',
+		  srcDark: 'img/logo-white.png'
 		},
-		navbar: {
-			title: "Overlay",
-			logo: {
-				alt: "Overlay logo",
-				src: "img/logo.svg",
-				srcDark: "img/logo-white.svg",
-			},
 			items: [
 				{
 					type: "localeDropdown",
