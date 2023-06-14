@@ -43,10 +43,13 @@ module.exports = {
 	},
 	i18n: {
 		defaultLocale: "en",
-		locales: ["en"],
+		locales: ["en", "zh-CN"],
 		localeConfigs: {
 			en: {
 				htmlLang: "en-GB",
+			},
+			'zh-CN': {
+				htmlLang: "zh-CN",
 			}
 		},
 	},
