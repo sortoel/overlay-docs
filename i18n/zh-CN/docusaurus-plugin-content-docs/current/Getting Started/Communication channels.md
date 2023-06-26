@@ -1,12 +1,12 @@
 ---
 sidebar_position: 4
 ---
-Official Communication Channels (Beware of Scams - these are the only official channels for Overlay Protocol)
+官方沟通渠道（谨防诈骗 - 以下是Overlay协议仅有的官方渠道）
 
 **Discord: _[https://discord.gg/m2U5vSr4gD](https://discord.gg/m2U5vSr4gD)_**   
 
 **Twitter: _[https://twitter.com/OverlayProtocol](https://twitter.com/OverlayProtocol)_**  
 
-**Governance Forum:_ https://commonwealth.im/overlay/_**    
+**治理论坛: _https://commonwealth.im/overlay/_**    
 
-**Deprecated:** Telegram channel
+**停用:** Telegram channel
