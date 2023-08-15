@@ -13,7 +13,7 @@ Overlay协议是建立在以太坊上的去中心化平台，为用户提供在�
 
 
 > 额外信息    
-> 请参阅我们的[白皮书](https://planckcat.mypinata.cloud/ipfs/QmVMX7DH8Kh22kxMyDFGUJcw1a3irNPvyZBtAogkyJYJEv)进一步了解Overlay协议的相关细节。 
+> 请参阅我们的[白皮书](https://gateway.pinata.cloud/ipfs/QmVMX7DH8Kh22kxMyDFGUJcw1a3irNPvyZBtAogkyJYJEv)进一步了解Overlay协议的相关细节。 
 
 
 
