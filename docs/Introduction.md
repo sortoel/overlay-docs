@@ -13,7 +13,7 @@ Overlay Protocol is a decentralized platform built on Ethereum, and offers users
 
 
 > INFO    
-> For a deep dive into Overlay Protocol, please refer to our white paper [here](https://planckcat.mypinata.cloud/ipfs/QmVMX7DH8Kh22kxMyDFGUJcw1a3irNPvyZBtAogkyJYJEv).
+> For a deep dive into Overlay Protocol, please refer to our white paper [here](https://gateway.pinata.cloud/ipfs/QmVMX7DH8Kh22kxMyDFGUJcw1a3irNPvyZBtAogkyJYJEv).
 
 
 
