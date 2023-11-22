@@ -33,6 +33,12 @@ Overlay smart contracts are currently deployed only on the Arbitrum mainnet excl
    </td>
   </tr>
   <tr>
+   <td>OVL Token
+   </td>
+   <td><a href="https://arbiscan.io/address/0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54">0x4305C4Bc521B052F17d389c2Fe9d37caBeB70d54</a>
+   </td>
+  </tr>
+  <tr>
    <td>OverlayV1Factory
    </td>
    <td><a href="https://arbiscan.io/address/0xFA39CdE07Ff63b4329A70784C0600Da38CF4777C">0xFA39CdE07Ff63b4329A70784C0600Da38CF4777C</a>
